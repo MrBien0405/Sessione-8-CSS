@@ -1,0 +1,519 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* Bài 1: */
+/* .container {
+    width: 776px;
+}
+.container h3 {
+    color:#005a5b
+}
+.container p {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.container div {
+    background-color: #eee7cc;
+    border-left: 10px solid #DFCC53;
+    padding: 10px
+} */
+
+/* Bài 2: */
+/* .container {
+    width: 1150px;
+    height: 543px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #1C1C1C;
+}
+.container h3 {
+    color: #000000;
+}
+.container .maudo {
+    background-color: #FFFFFF;
+    color: red;
+}
+.container .khungxanh {
+width: 1088px;
+height: 70px;
+padding: 28px;
+border: 5px solid #0A770B;
+margin: 30px 30px;
+text-align: center;
+line-height: 10px;
+}
+.container .Example{
+width: 1130px;
+height: 290px;
+padding: 10px;
+border: 1px solid #E5E8ED;
+margin: 30px 0px;
+background-color: #E5E8ED;
+}
+.container .border {
+width: 1090px;
+height: 118px;
+padding: 20px 10px;
+margin: 10;
+background-color: #FFFFFF;
+border-left: 10px solid #04AC6F;
+}
+.container .border .mautim{
+    color: violet;
+}
+.container .border .mauxanh{
+    color: blue;
+}
+.container .khungxanhnho{
+width: 160px;
+height: 50px;
+padding: 10px;
+border: 5px solid #E5E8ED;
+margin: 25px -2px;
+background-color:#08AB6E;
+border-radius: 10px;
+} */
+
+
+/* Bài 3: */
+/* .container{
+width: 525px;
+height: 544px;
+padding: 10px;
+border: 2px solid #E5E8ED;
+margin: 10;
+background-color:#FFFFFF;
+border-radius: 10px;
+font-size: 20px;
+}
+.container img{
+    width: 100%;
+} */
+
+/* Bai 4: */
+.container {
+    width: 310px;
+    height: 528px;
+    
+    margin: 200px 250px;
+    border: 1px solid black ;
+}
+.container img {
+    width: 300px;
+    height: 185px;
+    margin:5px;
+    margin-top: 10px;
+    border:  1px solid #E0E0E0  ;
+}
+.container .boxmodel1{
+    padding: 15px;
+    border: 1px solid #E0E0E0 ;
+    margin: 5px;
+    margin-right:3px;
+    margin-bottom: 5px;
+    margin-top: -10px;
+    height: 125px;
+    background-color:#FFFFFF ;    
+    border-top: 0px;
+   
+    
+}
+.container .boxmodel2 {
+    height: 40px;
+    margin: 5px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    border: 1px solid #E0E0E0 ;
+    padding: 15px;
+    background: #FFFFFF;
+    border-top: 5px;
+}
+.container .boxmodel3 {
+    height: 40px;
+    margin: 5px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    border: 1px solid #E0E0E0 ;
+    padding: 15px;
+    background: #FFFFFF;
+    border-top: 0ch;
+}
+.container .boxmodel4{
+    height: 40px;
+    margin: 5px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    border: 1px solid #E0E0E0 ;
+    padding: 15px;
+    background: #FFFFFF;
+    border-top: 0ch;
+}
+.container .boxmodel5{
+    height: 52px;
+    margin: 5px;
+    margin-top: -5px;
+    margin-bottom: 0px;
+    border: 1px solid #E0E0E0 ;
+    padding: 15px;
+    background: #FFFFFF;
+    border-top: 0ch;
+    word-spacing: 10px;
+}
+
+/* Bài 5:: */
+/* .khungtongoai {
+    width: 1343px;
+    height: 434px;
+    margin:50px 10px;
+    border: 1px solid black;
+}
+
+.khungtongoai .khungtrong1 {
+    width: 1300px;
+    height: 70px;
+    margin: 20px;
+    border:3px solid #DCDCDC;
+    text-align: center;
+    line-height: 60px;
+    background-color: #ECECEC;
+    margin-bottom: 0px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.khungtongoai .khungtrong2{
+    height: 250px;
+    margin: 20px;
+    border:3px solid #DCDCDC;
+    text-align: center;
+    margin-top: -1px;
+    border-top: 0px;
+}
+.khungtongoai .khungtrong2 .khungtrongxanh {
+    width: 230px;
+    height: 62px;
+    margin-bottom: 30px;
+    margin-left: 550px;
+    border:3px solid #0A6FFD;
+    background-color: #0A6FFD;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+}
+.khungtongoai .khungtrong3{
+    height: 70px;
+    margin: -3px;
+    border:3px solid #DCDCDC;
+    text-align: center;
+    margin-top: 85px;
+    border-top: 0px;
+    line-height: 70px;
+    background-color: #ECECEC ;
+} */
+
+/* Bài 6 */
+/* .khungtongoai {
+    width: 830px;
+    height: 425px;
+    margin: 200px 50px;
+    border: 1px solid black;
+}
+.khungtongoai .khungtrong1{
+    width: 800px;
+    height: 130px;
+    padding: 10px;
+    margin: 18px;
+    border: 1px solid #DFDFDF ;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 20px;
+}
+.khungtongoai .khungtrong1 .luivao{
+    padding: 30px;
+}
+.khungtongoai .khungtrong1 .khungxanhnho{
+    width: 50px;
+    height: 35px;
+    border: 1px solid #0672F8;
+    background-color: #0672F8;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 700px;
+    margin-top: -60px;
+}
+.khungtongoai .khungtrong2{
+    width: 800px;
+    height: 130px;
+    padding: 10px;
+    margin: 18px;
+    margin-top: -18px;
+    border: 1px solid #DFDFDF ;
+    border-top: 0ch;
+    font-size: 20px;
+}
+.khungtongoai .khungtrong2 .luivao{
+    padding: 30px;
+}
+.khungtongoai .khungtrong2 .khungxanhnho{
+    width: 50px;
+    height: 35px;
+    border: 1px solid #0672F8;
+    background-color: #0672F8;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 700px;
+    margin-top: -60px;
+}
+.khungtongoai .khungtrong3{
+    width: 800px;
+    height: 130px;
+    padding: 10px;
+    margin: 18px;
+    margin-top: -18px;
+    border: 1px solid #DFDFDF ;
+    border-top: 0ch;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 20px;
+}
+.khungtongoai .khungtrong3 .luivao{
+    padding: 30px;
+}
+.khungtongoai .khungtrong3 .khungxanhnho{
+    width: 50px;
+    height: 35px;
+    border: 1px solid #0672F8;
+    background-color: #0672F8;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 700px;
+    margin-top: -60px;
+} */
+/* Bài 7 */
+/* .khungtongoai{ 
+    width: 1012px;
+    height: 406px;
+    margin: 50px 15px;
+    border: 1px solid black;
+    
+}
+.khungtongoai .khungtrong1{
+    width: 992px;
+    height: 123px;
+    padding: 20px 20px;
+    border: 2px solid #E1E1E1;
+    margin:5px;
+    line-height: 65px;
+    font-size: 30px;
+}
+.khungtongoai .khungtrong2 {
+    width: 992px;
+    height: 112px;
+    padding: 20px 20px;
+    border: 2px solid #E1E1E1;
+    border-top: 0ch;
+    margin: 5px;
+    line-height: 56px;
+    font-size: 30px;
+    margin-top: -5px;
+}
+.khungtongoai .khungtrong3 {
+    width: 992px;
+    height: 142px;
+    padding: 20px 20px;
+    margin: 5px;
+    border: 2px solid #E1E1E1;
+    border-top: 0ch;
+    margin-top: -5px;
+}
+.khungtongoai .khungtrong3 .khungtrongxanh{
+    width: 340px;
+    height: 76px;
+    padding: 10px 10px;
+    border: 1px solid #0B6EFD;
+    margin: 5px;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #0B6EFD;
+    font-size: 30px;
+    margin-left: 600px;
+} */
+/* Bai 8: */
+/* .khungtongoai {
+    width: 1262px;
+    height: 546px;
+    margin: 50px 20px;
+    border: 1px solid black;
+}
+.khungtongoai .khungtrong1 {
+    width: 1215;
+    height: 81;
+    padding: 20px 20px;
+    margin: 10px;
+    border: 2px solid #E6E8ED;
+    background-color: #E9F3FF;
+    font-size: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.khungtongoai .khungtrong1 .dau{
+    margin-left: 1150px;
+    margin-top:-30px;
+}
+.khungtongoai .khungtrong2{
+    width: 1240px;
+    height: 247px;
+    padding: 20px 20px;
+    border: 2px solid #E6E8ED;
+    margin: 10px;
+    border-top: 0ch;
+    margin-top: -10px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.khungtongoai .khungtrong2 .maudo{
+    color: red;
+}
+.khungtongoai .khungtrong3{
+    width: 1240px;
+    height: 88px;
+    padding: 20px 20px;
+    margin: 10px;
+    border: 2px solid #E6E8ED;
+    border-top: 0ch;   
+    margin-top: -10px;
+    font-size: 30px;
+    line-height: 30px;
+}
+.khungtongoai .khungtrong3 .dau2{
+    margin-left: 1150px;
+    margin-top:-30px;
+}
+.khungtongoai .khungtrong4{
+    width: 1240px;
+    height: 88px;
+    padding: 20px 20px;
+    margin: 10px;
+    border: 2px solid #E6E8ED;
+    border-top: 0ch;   
+    margin-top: -10px;
+    font-size: 30px;
+    line-height: 30px;
+}
+.khungtongoai .khungtrong4 .dau3{
+    margin-left: 1150px;
+    margin-top:-30px;
+} */
+
+/* Bài 9: */
+/* .khungtongoai{
+    width: 728px;
+    height: 196px;
+    margin: 50px 20px;
+    border: 2px solid #D3D4D6 ;   
+}
+.khungtongoai .khungtrong1 {
+    width: 700px;
+    height: 77px;
+    margin: 10px ;
+    border: 2px solid #D3D4D6 ; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 0ch;
+
+}
+.khungtongoai .khungtrong1 .khungtrongxanh {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border: 2px solid #007AFF;
+    background-color: #007AFF;
+    border-radius: 10px;
+}
+.khungtongoai .khungtrong1 .khungtrongxanh .chu {
+    padding: 50px;   
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.khungtongoai .khungtrong1 .chu1{
+    margin-top: -50px; 
+    line-height: 40px;
+    font-size: 30px;
+    margin-left: 500px;    
+}
+.khungtongoai .khungtrong1 .dauX {
+    margin-top: -35px; 
+    line-height: 40px;
+    font-size: 30px;
+    margin-left: 640px;   
+    text-decoration-color: #7F7F7F;
+}
+.khungtongoai .khungtrong2{
+    width: 700px;
+    height: 92px;
+    margin-top: 20px;
+    margin-left: -2px;
+    border: 2px solid #D3D4D6;
+    padding: 20px 20px;
+    line-height: 45px;
+    font-size: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+} */
+
+/* Bài10 */
+/* .khungngoai{
+    width: 330px;
+    height: 550px;
+    margin: 50px 20px;
+    border: 1px solid black;
+}
+.khungngoai .khungtrong {
+    width: 300px;
+    height: 520px;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    font-size: 20px;
+    line-height: 25px;
+
+}
+.khungngoai .khungtrong img{
+    width: 100%;
+    border-top-left-radius: 400px;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+} */
+/* Bai 11: */
+/* .khungngoai {
+    width: 350px;
+    height: 400px;
+    margin: 50px 20px;
+    border: 2px solid black;
+    
+}
+.khungngoai .khungtrontrong{
+    width: 200px;
+    height: 200px;
+    margin:10px 10px;
+    border: 2px solid#FFFFFF;
+    border-radius: 50%;   
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 75px;  
+    background-color: #FDFAFA;
+}
+.khungngoai .khungtrontrong img{
+    width:100%;
+    clip-path: circle(100px at 50% 50%);
+} */
